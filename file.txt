@@ -1,6 +1,6 @@
 this is from standalone git repo. not yet connected to github.
 this file is going to be commited locally, and then new remote origin will be created.
-after that, i will fetch from remote, then merge, and then finaly commit and push.
+after that, i will fetch from remote, then merge, little change in here, courtesy of another branch..., and then finaly commit and push.
 wow, what a day...
 lee leeeeelee  le
 
